@@ -1,0 +1,14 @@
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.deps.json
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.dll
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.pdb
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.AssemblyInfo.cs
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.dll
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.pdb
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\Leonardo\source\repos\RestApiModeloDDD\RestApiMoodeloDDD.Application\obj\Debug\netcoreapp3.1\RestApiMoodeloDDD.Application.csproj.CopyComplete
